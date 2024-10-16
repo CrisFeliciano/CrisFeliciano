@@ -27,14 +27,14 @@ Aqui estão algumas das ferramentas e tecnologias com as quais trabalho:
 ---
 
 ### 🌱 Atualmente Aprendendo:
+- MBA - Cloud & DevOps na Impacta
 - Operadores avançados no Kubernetes
-- Service mesh com Istio
 - Monitoramento nativo na nuvem com Prometheus & Grafana
 
 ---
 
 ### 📈 Estatísticas do GitHub:
-![Estatísticas do GitHub do Cris](https://github-readme-stats.vercel.app/api?username=cris-devops&show_icons=true&theme=radical)
+![Estatísticas do GitHub do Cris](https://github-readme-stats.vercel.app/api?username=crisfeliciano&show_icons=true&theme=radical)
 
 ---
 
@@ -45,6 +45,4 @@ Aqui estão algumas das ferramentas e tecnologias com as quais trabalho:
 ---
 
 ### 📫 Entre em Contato:
-- [LinkedIn](https://linkedin.com/in/seu-perfil)
-- [Portfolio](https://seu-portfolio.com)
-- [Instagram - Instituto Soul Laço](https://instagram.com/institutosoullaco)
+- [LinkedIn]([https://linkedin.com/in/seu-perfil](https://github.com/CrisFeliciano))
