@@ -8,12 +8,12 @@ Sou especialista em automatizar infraestrutura em nuvem, construir pipelines CI/
 - **Plataformas de Nuvem:** AWS e GCP
 - **Containers & Orquestração:** Docker, Kubernetes
 - **Ferramentas de CI/CD:** GitLab CI, Jenkins, ArgoCD
-- **Segurança:** Trivy, Dependency-Check, Aqua Security
-- **Automação & Scripting:** Bash, Python, Terraform
+- **Segurança:** Trivy, Dependency-Check, Horusec Security, Owasp-Zap, Dependency-Check
+- **Automação & Scripting:** Bash, Python, Terraform, CI-CD.
 
 ---
 
-### 🌱 Atualmente Aprendendo:
+###  Atualmente Aprendendo:
 - MBA - Cloud & DevOps na Impacta
 - Operadores avançados no Kubernetes
 - Monitoramento nativo na nuvem com Prometheus & Grafana
