@@ -13,18 +13,6 @@ Sou especialista em automatizar infraestrutura em nuvem, construir pipelines CI/
 
 ---
 
-### 🔧 Ferramentas do Meu Arsenal DevOps:
-Aqui estão algumas das ferramentas e tecnologias com as quais trabalho:
-
-| Tecnologia  | Descrição                                        |
-|-------------|--------------------------------------------------|
-| Kubernetes  | Orquestração automatizada de aplicações em containers. |          
-| ArgoCD      | Ferramenta de entrega contínua via GitOps para Kubernetes. |
-| Trivy       | Ferramenta de varredura de segurança para imagens Docker. |
-| Terraform   | Ferramenta de Infrastructure as Code (IaC) para gerenciar infraestrutura em nuvem. |
-
----
-
 ### 🌱 Atualmente Aprendendo:
 - MBA - Cloud & DevOps na Impacta
 - Operadores avançados no Kubernetes
